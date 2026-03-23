@@ -1,7 +1,7 @@
-echo '{
+{
   "name": "sublit.com",
   "integrations": {
     "capacitor": {}
   },
   "type": "react"
-}' > ionic.config.json
+}

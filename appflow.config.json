@@ -1,5 +1,8 @@
 {
-  "android": {
-    "root": "android"
-  }
+  "apps": [
+    {
+      "platform": "android",
+      "root": "android"
+    }
+  ]
 }

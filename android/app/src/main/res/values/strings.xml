@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">sublit.com</string>
+    <string name="title_activity_main">sublit.com</string>
+    <string name="package_name">com.sublit.com</string>
+    <string name="custom_url_scheme">com.sublit.com</string>
+</resources>

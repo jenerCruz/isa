@@ -8,7 +8,9 @@
     "build": "vite build",
     "preview": "vite preview",
     "clean": "rm -rf dist",
-    "lint": "tsc --noEmit"
+    "lint": "tsc --noEmit",
+
+    "postinstall": "npx cap sync android"
   },
   "dependencies": {
     "@capacitor/android": "^8.2.0",

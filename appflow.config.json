@@ -1,6 +1,7 @@
 {
   "apps": [
     {
+      "appId": "4e3c842f",
       "platform": "android",
       "root": "android"
     }
